@@ -1,0 +1,13 @@
+
+Basic Qualifications
+- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, or related fields at time of application
+- Knowledge of programming languages such as C/C++, Python, Java or Perl
+- Knowledge of computer science fundamentals such as object-oriented design, operating systems, algorithms, data structures, and complexity analysis
+
+Preferred Qualifications
+- Experience from a technical internship
+- Experience with distributed, multi-tiered systems, algorithms, and relational databases
+- Experience in optimization mathematics such as linear programming and nonlinear optimization
+- Ability to effectively articulate technical challenges and solutions
+- Adept at handling ambiguous or undefined problems as well as ability to think abstractly
+

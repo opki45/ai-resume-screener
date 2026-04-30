@@ -1,0 +1,79 @@
+OLUDAYO AGUNBIADE
+ London | agunbiadeo@coventry.ac.uk | LinkedIn | +447778753627
+Personal Profile
+Second year Computer Science student with experience in full-stack development, IoT systems and AI-powered
+applications. Seeking a summer internship to apply skills in Python, JavaScript, and system design in a real-world
+environment. Eager to contribute to a forward-thinking team and gain hands-on experience.
+Education
+Coventry University Coventry, United Kingdom
+BSc Computer Science Expected Graduation, April 2027
+Relevant Modules: Programming concepts & algorithms; Computer systems; Mathematical Skills for computing
+professionals; Programming: Professional practice; Working with data; Artificial intelligence; Theory of computation;
+Advanced Algorithms
+Work Experience
+AULA AI Skunkworks Project October 2025
+• Participated in a 3-day industry-led AI innovation sprint to design solutions for enhancing a large-scale learning platform
+• Collaborated in a cross-functional team to ideate and prototype AI driven features including automated notetaking,
+intelligent summarisation, and personalised tutoring systems.
+• Proposed UI/UX improvements to improve platform usability and student engagement
+• Applied problem-solving and product thinking to design features targeting personalised learning experiences.
+IT Support Intern, NewGenCareGroup February 2024 – September 2024
+• Built positive relationships by actively listening to user needs and offering tailored solutions.
+• Resolved an average of 10+ daily support tickets with a 95% first contact resolution rate.
+• Collaborated with colleagues to improve systems, helping the organisation deliver a faster service.
+• Maintained systems, minimising downtime and enabling teams to focus on serving customers effectively.
+• Developed step by step troubleshooting guides that helped reduce ticket resolution time by 30%
+Secretary Intern, Cedrus Academy October 2023 – January 2024
+• Welcomed and assisted an average of 15 daily visitors, ensuring a professional and efficient front desk experience.
+• Maintained general company record systems to uphold accurate files.
+• Responded promptly to inquiries in person, by phone, and via email, maintaining strong client relationships.
+• Prepared and distributed monthly newsletters to 100+ parents and staff, boosting engagement rates.
+KEY PROJECTS & EXPERIENCES
+Komodo Hub – Full Stack Web Application
+• Built a web platform using HTML, CSS, JavaScript, Node.js, Express, and MySQL
+• Implemented user authentication system with role-based access (student/teacher)
+• Designed REST API endpoints for login and registration
+• Connected frontend to backend using fetch API
+• Debugged server and database connectivity issues in a team environment
+IoT Monitoring System – Greenhouse Environment January 2025 - April 2025
+• Built an IoT monitoring system using Python, MQTT (Paho), and HiveMQ broker to track temperature, humidity and soil
+nitrate levels.
+• Designed real-time data pipelines to stream sensor data, reducing manual monitoring by 60%
+• Implemented communication between 5+ simulated sensors and backend systems.
+• Worked effectively within a team to plan, build and test this application.
+AI powered assistance system October 2024 - December 2024
+• Developed an intelligent study-support assistant to automate tasks such as summarising materials, generating
+explanations, and answering course-related queries, leveraging Ollama’s large language model.
+• Applied prompt engineering techniques to optimise model interactions and improve response accuracy.
+• Developed a Python application using libraries such as SpeechRecognition for speech-to-text and pyttsx3 for natural
+text-to-speech conversion.
+• Implemented data token handling to send structured input to the model and process responses for real-time
+conversational use.
+Responsibilities and Achievements
+Software Engineering virtual experience on Forage, Electronic Arts October 2025.
+• Patched a bugfix and optimized the EA Sports College Football codebase by implementing an improved data structure.
+• Built a class diagram and created a header file in C++ with class definitions for each object.
+• Proposed a new feature for the EA Sports College Football and wrote a Feature proposal describing it to other stakeholders.
+Vice President AI Society, Coventry University January 2025 – April 2026
+• Volunteered as a team member for a student-led charity event, coordinating logistics with 10+ peers.
+• Collaborated with a 6-member executive team to organize workshops and networking events, fostering AI
+learning for all society members.
+• Established a regular AI research paper reading group, fostering critical thinking and advanced discussion among
+senior members.
+• Launched the first AI Society podcast which discussed the latest industry news and trends, which directly led to a
+15% increase in active society membership.
+Student Ambassador, Coventry University October 2025 - Current
+• Represented the University at Open Days and campus events, engaging with prospective students and parents to
+provide authentic insights into the student experience.
+• Developed and presented content detailing course highlights and student life, directly supporting student
+recruitment efforts.
+• Collaborated with staff and fellow ambassadors to deliver high-quality events, ensuring a welcoming
+environment for visitors.
+Technical Skills
+• Languages: Python, C++, JavaScript, SQL
+• Web: HTML, CSS, Node.js, Express
+• Tools: Git, GitHub, MySQL
+• Concepts: Data structures & algorithms, OOP, Machine learning
+• Microsoft Office: Microsoft Excel, Word, PowerPoint
+• Written and Verbal communication
+• Time management & Critical Thinking
