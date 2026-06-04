@@ -137,6 +137,6 @@ This project was built to bridge the gap between what candidates think is a stro
 **Oludayo Agunbiade** — Computer Science Student | Aspiring Software Engineer
 
 - GitHub: [github.com/opki45](https://github.com/opki45)
-- LinkedIn: *(add your link)*
+- LinkedIn: www.linkedin.com/in/oludayoagunbiade
 
 If you found this useful, give the repo a star ⭐ — it helps a lot!
