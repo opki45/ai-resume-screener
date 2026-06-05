@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-streamlit
-scikit-learn
-matplotlib
-=======
 streamlit>=1.35.0
 scikit-learn>=1.4.0
 matplotlib>=3.8.0
 pdfplumber>=0.11.0
 python-docx>=1.1.0
->>>>>>> 450222a (V2 local files)
